@@ -6,9 +6,17 @@ Learn any language
 
 Polyglot learns your language level and presents you with real world text that push your knowledge
 
+The idea is to be as automated as possible. The analyzer parses text to determine word frequency and difficulty. Then the algo tries to present users with sentences and paragraphs that best fit their language level. Showing less difficult words to new users. It remembers which words users knew, and which words users needed to look up.
+
+At some point, I would like to add ML sentence translation via a google-tranlate-like API
+
 ## Why
 
 Popular language learning apps like Duolingo do a decent job of laying the foundation for learning a language, but they fail to bring learners to the point of conversation. Polyglot bridges the gap between typical language apps and fluency by fleshing out a users grammar and vocab.
+
+## Where it's at
+
+Polyglot is an idea I'm trying. I'm not sure how well it will work, but it's a cool idea
 
 ## Features
 
